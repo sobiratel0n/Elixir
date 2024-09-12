@@ -2,14 +2,16 @@
    <h1>🐍 Elixir/OKX withdraw soft 🪐</h1>
 </div>
 
-# ✨ Quickstart
 
 ### 🛠️ Installation
 
 ```sh
 git clone https://github.com/sobiratel0n/Elixir
+
 cd Elixir
+
 pip install requirements
+
 python main.py
 
 ```
@@ -18,4 +20,4 @@ python main.py
 **Please note that soft works only through console**
 
 ### 📃 General Usage
-**You need to provide ypur private keys and OKX wallet adresses in wallens.txt and okx_wallets.json.**
+**You need to provide your private keys and OKX wallet adresses in wallets.txt and okx_wallets.json.**
